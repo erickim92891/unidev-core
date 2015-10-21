@@ -8,11 +8,6 @@
 	angular
 		.module ('app', [
 			'app.core',
-			'welcome',
-			'register',
-			'login',
-			'logout',
-			'dashboard',
 			'templates',
 			'app.widgets'
 		]);
